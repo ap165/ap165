@@ -12,8 +12,8 @@ Currently I enjoy working on **full-stack applications**, combining clean fronte
 ### Tech I use
 
 - **Languages:** Python, C, JavaScript  
-- **Frontend:** React, Vite  
-- **Backend:** Flask, FastAPI
+- **Frontend:** React, React Native  
+- **Backend:** Flask, FastAPI, AWS Lambda
 - **Tools:** Git, Linux, Nginx, Gunicorn  
 
 ### Currently learning
